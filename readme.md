@@ -4,9 +4,7 @@
 
 以 bpi-bit 和 bpi-uno 为切入点，提供扎实可靠的开源技术支持服务，试图共建一个良好的编程社区环境。
 
-![bpi-uno](https://github.com/BPI-STEAM/BPI-UNO/raw/master/pic/overview.jpg)
-
-![bpi-bit](http://wiki.banana-pi.org/images/thumb/6/68/Webduino_gif.gif/300px-Webduino_gif.gif)
+![bpi-uno](http://wiki.banana-pi.org/images/thumb/4/47/ESP32_6.JPG/300x222x300px-ESP32_6.JPG.pagespeed.ic.E1HJqSGM49.webp) ![bpi-bit](http://wiki.banana-pi.org/images/thumb/1/12/Webduino_bit_1.JPG/300x214x300px-Webduino_bit_1.JPG.pagespeed.ic.016JoQjoJN.webp)
 
 # 入门流程
 
