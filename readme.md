@@ -4,6 +4,10 @@
 
 以 bpi-bit 和 bpi-uno 为切入点，提供扎实可靠的开源技术支持服务，试图共建一个良好的编程社区环境。
 
+![bpi-uno](https://github.com/BPI-STEAM/BPI-UNO/raw/master/pic/overview.jpg)
+
+![bpi-bit](http://wiki.banana-pi.org/images/thumb/6/68/Webduino_gif.gif/300px-Webduino_gif.gif)
+
 # 入门流程
 
 根据 项目导航 ，找到自己想要的资料，如果没有找到，路人发 [issues](https://github.com/BPI-STEAM/bpi-bit-development/issues) ，组织中的开发者到 [projects](https://github.com/BPI-STEAM/bpi-bit-development/projects) 中记录收集问题或需求，欢迎你也与我们一同参与这份事业。
