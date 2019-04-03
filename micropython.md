@@ -27,7 +27,7 @@
 
 一行代码，控制硬件。
 
-# 使用 bpi:bit 必备技能（高手版）
+# 使用 bpi:bit 必备技能（简书版）
 
 ## [bpi:bit 的 MicroPython 基础教程](https://forum.banana-pi.org.cn/t/topic/3197)
 
