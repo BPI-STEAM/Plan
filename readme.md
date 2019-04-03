@@ -1,3 +1,5 @@
+![logo](./Image/logo.jpg)
+
 此项目仅为开发者之间开发和交流所用，不会在此产生任何开发成果，只会将各种内容和链接整理出来，并将镜像同步回[社区导航](https://forum.banana-pi.org.cn/c/bpi-bit)供大家所用。
 
 # 社区宗旨
