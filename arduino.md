@@ -1,6 +1,15 @@
 # Arduino
 
 ## Arduino IDE 
+<img src="/Image/Arduino-logo.jpg" width="150px" />
+
+### 安装Arduino IDE 
+
+下载Arduino IDE：
+[Arduino.cc官方网站下载地址](https://www.arduino.cc/en/main/software)
+[Arduino中文社区下载地址](https://www.arduino.cn/thread-5838-1-1.html)
+
+### Arduino IDE连接板子以及导入开发扩展包
 #### 1. 有线连接板子
 
 - 将板子通过 MicroUSB 线连接到你的电脑里，以下以 Windows10 为例。
@@ -38,13 +47,13 @@
 
 - 可以看到原来的 **USB2.0-Serial** 消失了，取而代之的是 **USB-SERIAL CH340(COM3)**，这意味着你已经成功安装驱动，并且得到板子串口名称为（**COM3**），你可以通过各种串口工具来查看串口名（COM3）的板子传出的信息。
 
-## 2. 开发扩展包
+#### 5. 开发扩展包
 
 - [arduino-esp32 开发工具包](https://github.com/espressif/arduino-esp32/archive/master.zip)，点击前边连接获取开发工具包
 > - 源自乐鑫(espressif) github 开源项目 [arduino-esp32](https://github.com/espressif/arduino-esp32),后续开发工具包更新推荐使用[GitHub-DeskTop](https://desktop.github.com) 工具随时同步更新套件。
 
 
-## 3. Windows安装说明
+#### 6-1. Windows安装说明
 
 1. 下载并安装最新版本的Arduino IDE， ```Windows Installer``` from [arduino.cc](https://www.arduino.cc/en/Main/Software)
 2. 从 [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)开源项目下载Arduino开发扩展包
@@ -76,7 +85,7 @@
 
     ![Arduino IDE Example](./Image/arduino-ide.png)
 
-## 3. Debian / Ubuntu OS安装说明
+#### 6-2. Debian / Ubuntu OS安装说明
 
 - 从 [arduino.cc](https://www.arduino.cc/en/Main/Software)网站获取并安装最新版本的 Arduino IDE
 - 打开终端并执行以下命令 (copy-> paste并点击回车):
@@ -110,7 +119,7 @@
   python2 get.py
   ```
 
-## 3. Mac OS安装说明
+#### 6-3. Mac OS安装说明
 
 - 从 [arduino.cc](https://www.arduino.cc/en/Main/Software)网站获取并安装最新版本的 Arduino IDE
 - 打开终端并执行以下命令 (copy-> paste并点击回车):
@@ -135,3 +144,129 @@
 - 在运行 `python get.py`的时候，收到错误提示: `IOError: [Errno socket error] [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:590)` ，您可以尝试使用 `python3` 代替 `python` 
 
 - 重启 Arduino IDE
+
+
+### Arduino IDE扩展库安装
+以下方法以Windows 10系统为例，其他系统的安装方法于此类似。
+
+#### 0. Arduino IDE 安装库方法1(通过Arduino IDE`管理库`工具)
+
+依次点开`项目`>`加载库`>`管理库`(默认快捷键`Ctrl+Shift+I`)
+
+![step a-1](./Image/Install_Lib_1.png)
+
+打开`库管理器`之后，等待下方的进度条加载完成，然后可以在上方的过滤框添加过滤关键字，点选需要安装的库后，在条目右下角点击安装即可。
+
+![step a-2](./Image/Install_Lib_2.png)
+
+#### 1. Arduino IDE 安装库方法2(通过Arduino IDE安装ZIP库)
+
+依次点开`项目`>`加载库`>`添加.ZIP库`
+
+![step b-1](./Image/Install_Lib_3.png)
+
+选择已经下载好的库文件的ZIP压缩包，然后点击打开。
+
+![step b-2](./Image/Install_Lib_4.png)
+
+#### 2. Arduino IDE 安装库方法3(直接复制库文件夹至`libraries`目录)
+
+`libraries`目录存放地址一般为：`C:\Users\yelv1\Documents\Arduino`，可以在Arduino IDE里查看，依次打开`文件`>`首选项`
+
+![step c-1](./Image/Install_Lib_5.png)
+
+在首选项对话框内
+
+![step c-2](./Image/Install_Lib_6.png)
+
+将整个库的github上托管的仓库目录复制进去即可
+
+![step c-3](./Image/Install_Lib_7.png)
+
+
+## PlatformIO IDE
+<img src="/Image/PlatformIO-logo.png" width="150px" />
+
+**PlatformIO is an open source ecosystem for IoT development**
+*Cross-platform IDE and unified debugger. Remote unit testing and firmware updates*
+### 安装PlatformIO
+
+[Install PlatformIO IDE](https://platformio.org/platformio-ide) 你需要配合Visual Studio Code(推荐，或者使用Atom也可以)来使用它。
+
+### 硬件连接：
+#### 1. 有线连接板子
+
+- 将板子通过 MicroUSB 线连接到你的电脑里，以下以 Windows10 为例。
+
+ ![连接板子](./Image/home08.png)
+
+#### 2. 查看驱动
+
+- 进入 **设备管理器** 确认串口驱动（Serial）是否安装，进入方法如下。
+  - （右键）此电脑 -> 属性 -> **设备管理器**
+  - 开始菜单 -> （输入）**设备管理器**
+  - 控制面板 -> （搜索）**设备管理器**
+
+ ![查看驱动](./Image/home07.png)
+
+- 可以看到 设备显示 **USB2.0-Serial** ，说明**未安装驱动**，若此前已安装驱动，可以跳至步骤 5 。
+
+
+#### 3. 安装驱动
+
+- [点此获取 Serial CH341](http://www.wch.cn/downloads/file/5.html) 驱动，并按如下说明操作安装驱动
+
+- 打开下载的 **CH341SER.ZIP** 压缩包，进入 **CH341SER** 文件夹，打开 **SETUP.EXE**，即可看到如下图。
+
+ ![安装驱动](./Image/home06.png)
+
+- 点击 **INSTALL** （安装），等待片刻即可完成安装。
+
+
+#### 4. 确认串口
+
+- 核对板子是否连接成功
+
+ ![连接成功](./Image/home01.png)
+
+- 可以看到原来的 **USB2.0-Serial** 消失了，取而代之的是 **USB-SERIAL CH340(COM3)**，这意味着你已经成功安装驱动，并且得到板子串口名称为（**COM3**），你可以通过各种串口工具来查看串口名（COM3）的板子传出的信息。
+
+
+### 添加Espressif 32开发扩展包到PlatformIO IDE:
+
+- Open PlatformIO(PIO) Home Page:
+    1. `Platforms`>`Embedded`>`ESP32`
+    2. Click `Espressif 32`
+    3. Click `Install`
+    4. Waiting...
+
+![Step 1](/Image/pio-15.png)
+
+![Step 2](/Image/pio-16.png)
+
+#### PlatformIO中为BPI-Bit新建一个工程:
+
+![Step 3](/Image/pio-17.png)
+
+1. Click `Home` window.
+2. Click `New Project` create a new project.
+
+![Step 4](/Image/pio-18.png)
+
+1. `Name`是工程名称
+2. `Board`栏选择`BPI-Bit(BPI Tech)`
+3. `Framework`选择`Arduino`
+4. 你可以自定义选择工程存放的位置(这不是必须的)
+5. 点击`Finish`完成创建
+
+#### PlatformIO安装一个扩展库
+
+![step 1](/Image/Install_Lib_8.png)
+
+打开PlatformIO IDE的`Home`页面，然后在左侧边栏的`Libraries`后，在搜索栏搜索需要安装的库的名称
+
+![step 2](/Image/Install_Lib_9.png)
+
+根据搜索的结果选择自己需要的库，然后点击库名称，进入到库的详细信息页面后，点击`Install`即可
+
+![step 3](/Image/Install_Lib_10.png)
