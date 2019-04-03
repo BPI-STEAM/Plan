@@ -159,7 +159,7 @@
 
 ![step a-2](./Image/Install_Lib_2.png)
 
-## 1. Arduino IDE 安装库方法2(通过Arduino IDE安装ZIP库)
+#### 1. Arduino IDE 安装库方法2(通过Arduino IDE安装ZIP库)
 
 依次点开`项目`>`加载库`>`添加.ZIP库`
 
@@ -184,7 +184,7 @@
 ![step c-3](./Image/Install_Lib_7.png)
 
 
-#### PlatformIO IDE
+## PlatformIO IDE
 <img src="/Image/PlatformIO-logo.png" width="150px" />
 
 **PlatformIO is an open source ecosystem for IoT development**
