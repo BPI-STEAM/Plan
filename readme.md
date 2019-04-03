@@ -68,7 +68,7 @@
 
 # 提问の艺术
 
-![how_to_ask](how_to_ask.jpg)
+![how_to_ask](/Image/how_to_ask.jpg)
 
 # 开发者共识
 
