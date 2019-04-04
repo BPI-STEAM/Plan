@@ -1,8 +1,5 @@
 # BPI-BIT Hardware Introduction
 
-![view](Image/Interface_zh_CN.JPG)
-![view](Image/Interface_EN.JPG)
-
 - [bpi:bit 硬件概览](https://github.com/BPI-STEAM/BPI-BIT/blob/master/README.md)
 - [bpi:bit 金手指对应引脚介绍](https://github.com/BPI-STEAM/BPI-BIT#%E5%BC%95%E8%84%9A%E5%AE%9A%E4%B9%89)
 - [bpi:bit 面板 LED 编号](https://github.com/BPI-STEAM/BPI-BIT#led%E7%BC%96%E5%8F%B7)
