@@ -8,9 +8,70 @@
 
 ![bpi-uno](http://wiki.banana-pi.org/images/thumb/4/47/ESP32_6.JPG/300x222x300px-ESP32_6.JPG.pagespeed.ic.E1HJqSGM49.webp) ![bpi-bit](http://wiki.banana-pi.org/images/thumb/1/12/Webduino_bit_1.JPG/300x214x300px-Webduino_bit_1.JPG.pagespeed.ic.016JoQjoJN.webp)
 
+# 社区契合度
+
+只要你，对前沿开源技术充满了兴趣
+只要你，想学会底层嵌入式开发技术
+只要你，不满足软件上实现的功能
+
+## 你是否想成为以下的一员？
+
+- 拥有动手能力小发明家
+
+- 新时代炫酷技术创客
+
+- STEAM 教育的先行者
+
+- 硬件产品开发经理
+
+- 专业嵌入式开发者
+
+- 创造价值的英雄人物
+
+## 这里可以给你带来什么？
+
+我们，专注在开源硬件技术支持上。
+
+只要是应用于业界前沿的开发技术，我们都会参与研发。
+
+在这里你可以进行 
+
+- Linux
+- Windows
+- 物联网
+- 互联网
+- 服务器
+- 网页开发
+- 硬件设计
+- 脚本工具
+- STEAM 教育
+- Scratch 3.0
+- Blockly
+- NodeJS
+- MicroPython
+- Arduino
+
+等各种黑科技技术的开发与讨论。
+
+只要你勤于问，就会有答案。
+
+如果你没有硬件，也想参与，那么这里也会因为你的热情，将硬件免费赠予你。
+
+## 而你需要做什么？
+
+学会提问 期望解决的事情
+
+学会找到 自己喜欢的东西
+
+学会分享 自己创造的成果
+
+学会讨论 与他人一同开发
+
+然后，成为一个🐂🍺的人。
+
 # 入门流程
 
-根据 项目导航 ，找到自己想要的资料，如果没有找到，路人发 [issues](https://github.com/BPI-STEAM/bpi-bit-development/issues) ，组织中的开发者到 [projects](https://github.com/BPI-STEAM/bpi-bit-development/projects) 中记录收集问题或需求，欢迎你也与我们一同参与这份事业。
+根据 项目导航 ，找到自己想要的资料，如果没有找到，非开发者发 [issues](https://github.com/BPI-STEAM/bpi-bit-development/issues) ，组织中的开发者到 [projects](https://github.com/BPI-STEAM/bpi-bit-development/projects) 中记录收集问题或需求，欢迎你也与我们一同参与这份事业，成为组织者只需申请入开发者群。
 
 ## 如何开始？
 
