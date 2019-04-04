@@ -131,6 +131,16 @@
 
 涵盖了各种 linux 与 嵌入式开发领域的专业爱好者交流的社区。
 
+# 自由の交流社区
+
+## [本家论坛](https://forum.banana-pi.org.cn/c/bpi-bit)
+
+## [万物积木化社区](https://forums.codelab.club/)
+
+## [micropython中文社区](www.micropython.org.cn)
+
+还有很多，欢迎提醒我添加。
+
 # 提问の艺术
 
 ![how_to_ask](/Image/how_to_ask.jpg)
