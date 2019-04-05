@@ -11,7 +11,9 @@
 # 社区契合度
 
 只要你，对前沿开源技术充满了兴趣
+
 只要你，想学会底层嵌入式开发技术
+
 只要你，不满足软件上实现的功能
 
 ## 你是否想成为以下的一员？
@@ -137,7 +139,7 @@
 
 ## [万物积木化社区](https://forums.codelab.club/)
 
-## [micropython中文社区](www.micropython.org.cn)
+## [micropython中文社区](https://www.micropython.org.cn)
 
 还有很多，欢迎提醒我添加。
 
