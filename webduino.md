@@ -12,4 +12,22 @@
 
 ## [官方标准 Webduino 教学文件](https://webduino.com.cn/site/zh_cn/tutorials.html)
 
+### [Webduino Bit 详细规格](https://webduino.com.cn/site/zh_cn/docs/detail.html)
+
+### [Webduino Bit 初始化设定](https://webduino.com.cn/site/zh_cn/docs/setting.html)
+
+### [认识 Webduino Blockly Bit](https://webduino.com.cn/site/zh_cn/docs/blockly.html)
+
+### [5x5 全彩 LED 点矩阵](https://webduino.com.cn/site/zh_cn/docs/rgbmatrix.html)
+
+### [按钮开关](https://webduino.com.cn/site/zh_cn/docs/button.html)
+
+### [侦测光线](https://webduino.com.cn/site/zh_cn/docs/photocell.html)
+
+### [侦测温度](https://webduino.com.cn/site/zh_cn/docs/temperature.html)
+
+### [蜂鸣器](https://webduino.com.cn/site/zh_cn/docs/buzzer.html)
+
+### [九轴传感器](https://webduino.com.cn/site/zh_cn/docs/mpu9250.html)
+
 ## [在线 Blockly 积木网站（国内版）](https://bit.webduino.com.cn/blockly)
