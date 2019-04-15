@@ -31,3 +31,7 @@
 ### [九轴传感器](https://webduino.com.cn/site/zh_cn/docs/mpu9250.html)
 
 ## [在线 Blockly 积木网站（国内版）](https://bit.webduino.com.cn/blockly)
+
+## [在线 Blockly 积木网站（教育版）](https://webbit.webduino.io/blockly)
+
+- 可下载安装 WebBitSetup.exe 使用 USB 模式。
