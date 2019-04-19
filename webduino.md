@@ -34,3 +34,11 @@
 ## [在线 Blockly 积木网站（教育版）](https://webbit.webduino.io/blockly)
 
 - 可下载安装 WebBitSetup.exe 使用 USB 模式。
+
+
+# 使用过程中可能遇到的问题整理：
+
+更多相关内容请翻看[issue](https://github.com/BPI-STEAM/bpi-bit-development/issues)
+
+1. 烧录Webduino固件后，LED面板显示红叉
+解决方法请看[#9](https://github.com/BPI-STEAM/bpi-bit-development/issues/9#issue-434584662)
