@@ -1,31 +1,59 @@
 
 # BPI:bit 轻松上手教程（官方版）
 
-## 请按以下顺序依次浏览上手教程。
+## 基本的使用常识
 
-## 1. [认识 BPI:bit](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/board_Introduction)（阅读二分钟）
+### [认识 bpi:bit 硬件](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/board_Introduction)
 
-认识板子的基本情况。
+### [认识 Github 仓库](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/get_developmentkit)
 
-## 2. [获取开发套件](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/get_developmentkit)（阅读一分钟）
+### [安装 Windows 驱动](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/board_connect)
 
-认识板子的项目结构。
+### [烧入 MicroPython ](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_esp_pyflasher)
 
-## 3. [有线连接板子](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/board_connect)（阅读五分钟）
+### [输出 Hello World](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/helloworld)
 
-连接板子，安装驱动。
+### [轻松 点亮 LED](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/light_many_leds)
 
-## 5. [尝试烧写板子](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_flash)（阅读三分钟）
+## 工具的详细说明
 
-一键烧写板子的固件。
+### [Mpfshell 帮助文档](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/mpfshell)
 
-## 6. [Hello, World!](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/helloworld)（阅读四分钟）
+### [使用 Pycharm 编程](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/pycharm)
 
-一行代码，你好世界。
+## 一些有趣的示例
 
-## 7. [点亮各种LED](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/light_many_leds)（阅读六分钟）
+### [面板滚动文字](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_scroll_text)
 
-一行代码，控制硬件。
+### [面板显示图像](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_image)
+
+### [底部IO口控制](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_io)
+
+### [面板按键检测](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_button)
+
+### [获取板子温度](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_temperature)
+
+### [播放MIDI音乐](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_sound)
+
+### [光敏手势检测](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_light)
+
+### [板子姿态检测](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_accelerometer)
+
+### [做一个指南针](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_compass)
+
+### [随机数生成器](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_random)
+
+### [S2m Scratch2](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_s2m)
+
+### [Codelab Scratch3](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_codelab)
+
+## 无线物联网基础
+
+### [WIFI 轻松连](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_wifi)
+
+### [使用 MQTT 通信](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_mqtt)
+
+### [联网爬取天气](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/wiki/how_to_drag-weather)
 
 # 使用 bpi:bit 必备技能（简书版）
 
