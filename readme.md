@@ -3,7 +3,7 @@
 
 # 社区宗旨
 
-以 bpi-bit 和 bpi-uno 为切入点，提供扎实可靠的开源技术支持服务，试图共建一个良好的编程社区环境。
+以 bpi-uno 和 bpi-bit 为切入点，提供扎实可靠的开源技术支持服务，试图共建一个良好的编程社区环境。
 
 ![bpi-uno](http://wiki.banana-pi.org/images/thumb/4/47/ESP32_6.JPG/300x222x300px-ESP32_6.JPG.pagespeed.ic.E1HJqSGM49.webp) ![bpi-bit](http://wiki.banana-pi.org/images/thumb/1/12/Webduino_bit_1.JPG/300x214x300px-Webduino_bit_1.JPG.pagespeed.ic.016JoQjoJN.webp)
 
@@ -88,7 +88,7 @@
 
 # 社区导航
 
-[本家论坛](https://forum.banana-pi.org.cn/c/bpi-bit)
+## [本家论坛](https://forum.banana-pi.org.cn/c/bpi-bit)
 
 更多内容，正在筹备中，如项目中的存在的一些文件，将会分散导航，目前急需各位的参与与建设，任何问题或建议都可以提出，无论多小都可以。
 
