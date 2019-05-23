@@ -70,13 +70,13 @@
 
 任务安排
 
-对 bpi:bit 的存在的硬件问题提供解答和设计底板或底座。 
+对 bpi:bit 的存在的硬件问题提供解答和设计底板或底座。
 
 - [yelvlab](https://github.com/yelvlab)
 
 - [Qubot](https://github.com/Qubot)
 
-对 bpi:bit 的提出更多使用教程或范例的代码与说明贴。 
+对 bpi:bit 的提出更多使用教程或范例的代码与说明贴。
 
 - [aJantes](https://github.com/aJantes)
 

@@ -2,11 +2,6 @@
 
 ## [为 bpi:bit 写入 Webduino 固件。](https://github.com/BPI-STEAM/BPI-BIT-WebDuino)
 
-## BPI:Bit Webduino 超快速上手指南
-
-[BPI-Bit-Webduino超快速上手指南（Markdown）](https://github.com/BPI-STEAM/BPI-BIT/blob/master/doc/BPI-Bit-Webduino%E8%B6%85%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97/BPI-Bit-Webduino%E8%B6%85%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.md)
-介绍了如何使BPI-Bit连接Wi-Fi，然后连接Webduino Blockly和BPI-Bit板(包括使用模拟器)
-
 # 已经安装 Webduino 固件（官方默认出厂固件）
 
 ## [官方标准 Webduino 教学文件](https://webduino.com.cn/site/zh_cn/tutorials.html)
@@ -35,10 +30,9 @@
 
 - 可下载安装 WebBitSetup.exe 使用 USB 模式。
 
-
-# 使用过程中可能遇到的问题整理：
+# 使用过程中可能遇到的问题整理
 
 更多相关内容请翻看[issue](https://github.com/BPI-STEAM/bpi-bit-development/issues)
 
-1. 烧录Webduino固件后，LED面板显示红叉
+1. 烧录 Webduino 固件后，LED面板显示红叉
 解决方法请看[#9](https://github.com/BPI-STEAM/bpi-bit-development/issues/9#issue-434584662)
