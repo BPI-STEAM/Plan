@@ -13,7 +13,7 @@
 
 以 bpi-uno 和 bpi-bit 为切入点，提供扎实可靠的开源技术支持服务，试图共建一个良好的编程社区环境。
 
-![bpi-uno](http://wiki.banana-pi.orgreadmes/thumb/4/47/ESP32_6.JPG/300x222x300px-ESP32_6.JPG.pagespeed.ic.E1HJqSGM49.webp) ![bpi-bit](http://wiki.banana-pi.orgreadmes/thumb/1/12/Webduino_bit_1.JPG/300x214x300px-Webduino_bit_1.JPG.pagespeed.ic.016JoQjoJN.webp)
+![bpi-uno](readme/uno.jpg) ![bpi-bit](readme/bit.jpg)
 
 ## 社区契合度
 
