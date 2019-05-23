@@ -13,7 +13,7 @@
 
 以 bpi-uno 和 bpi-bit 为切入点，提供扎实可靠的开源技术支持服务，试图共建一个良好的编程社区环境。
 
-![bpi-uno](readme/uno.jpg) ![bpi-bit](readme/bit.jpg)
+![bpi-bit](readme/bit.jpg) ![bpi-uno](readme/uno.jpg)
 
 ## 社区契合度
 
