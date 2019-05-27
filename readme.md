@@ -104,22 +104,6 @@
 
 按难易程度来看，可划分为 Wedbuino、MicroPython、Arduino、ESP-IDF，如果是完全没有接触过硬件编程的同学，建议先从 Webduino 开始了解一些物联网基础，它面向的是 网页开发者 和 少儿 STEAM 编程，如果是有过硬件编程基础的则建议使用 MicroPython 进行学习，但如果你觉得这些都太简单了，不妨直接使用 Arduino 或 ESP-IDF 来进行开发。
 
-### [Hardware](https://github.com/BPI-STEAM/BPI-BIT-Hardware)
-
-此处将记载所有和硬件有关的介绍，包括产品介绍、驱动安装、硬件原理图或是硬件上的外设 datasheet 等等。
-
-### [Wedbuino](https://github.com/BPI-STEAM/BPI-BIT-Webduino)
-
-此处将记载所有和 Webduino 编程有关的介绍，包括前端少儿积木编程用例、或者是开发云端积木，服务器托管程序等等。
-
-### [MicroPython](https://github.com/BPI-STEAM/BPI-BIT-MicroPython)
-
-此处将记载所有和 MicroPython 编程有关的介绍，包括使用 IDE 开发工具、或者是使用 Scratch3 积木，快速应用硬件外设驱动、开发硬件传感器驱动，甚至是修改和开发底层固件等等。
-
-### [Arduino](https://github.com/BPI-STEAM/BPI-BIT-Arduino)
-
-此处将记载所有和 Arduino 编程有关的介绍，包括使用 IDE 开发工具、编译和自定义硬件程序等等。
-
 ## 交流社区（或群）
 
 ### BPI-STEAM (QQ 群 662087773)
