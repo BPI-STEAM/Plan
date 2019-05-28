@@ -4,6 +4,10 @@
 ![](https://img.shields.io/badge/open%20source-bananpi-brightgreen.svg)
 ![](https://img.shields.io/badge/developer-wall%20plan-blueviolet.svg)
 
+## 组织文档
+
+迁移历史文档至新地点存放，原格式保持不变，仅变更文档存放区域。
+
 ## 基础方面
 
 重在精简完整，不在多。
