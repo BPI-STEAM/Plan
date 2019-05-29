@@ -43,6 +43,8 @@
 
 ### MicroPython 在组织号上 拆分 BPI-BIT-Samples 项目形成多个小项目，此时应该有一个专业的标准模板进行筹备。
 
+示例可以参考：[MircoPython-led](https://github.com/BPI-STEAM/MircoPython-led) & [micropython-Button](https://github.com/BPI-STEAM/micropython-Button)
+
 ### Webduino 在组织号上也同样推出许多有用的拓展模块，但也应该学习 MicroPython 文档布局，显得更为专业一些。
 
 达到的预期效果 拥有许多有用的 库代码，能够让人喜欢上的开源组织。
