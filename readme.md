@@ -98,13 +98,11 @@
 
 ![how_to_ask](readme/how_to_ask.jpg)
 
-## 社区导航
+## 交流社区（或群）
 
 ### [官方社区](https://forum.banana-pi.org.cn/c/bpi-bit)
 
 按难易程度来看，可划分为 Wedbuino、MicroPython、Arduino、ESP-IDF，如果是完全没有接触过硬件编程的同学，建议先从 Webduino 开始了解一些物联网基础，它面向的是 网页开发者 和 少儿 STEAM 编程，如果是有过硬件编程基础的则建议使用 MicroPython 进行学习，但如果你觉得这些都太简单了，不妨直接使用 Arduino 或 ESP-IDF 来进行开发。
-
-## 交流社区（或群）
 
 ### BPI-STEAM (QQ 群 662087773)
 
@@ -121,8 +119,6 @@
 ### Banana Pi 创客社区（QQ 群 85785523）
 
 涵盖了各种 linux 与 嵌入式开发领域的专业爱好者交流的社区。
-
-### [官方中文社区](https://forum.banana-pi.org.cn/c/bpi-bit)
 
 ### [万物积木化社区](https://forums.codelab.club/)
 
