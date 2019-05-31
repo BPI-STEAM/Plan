@@ -14,13 +14,11 @@
 
 ~~迁移历史文档至新地点存放，原格式保持不变，仅变更文档存放区域。~~
 
-用户文档框架已经成型，顺便整理了 BPI-BIT-MicroPython 的发布中心，软件发布有迹可循。
+用户文档框架已经初步成型，顺便整理了 BPI-BIT-MicroPython 的发布中心，软件发布有迹可循。
 
 ### 开发文档
 
-~~之后书写开发者文档在此处 [Dev](https://github.com/BPI-STEAM/Dev)。~~
-
-准备书写开发文档、有关于 MicroPython 和 Webduino 的开发。
+书写开发者文档在此处 [Dev](https://github.com/BPI-STEAM/Dev) ，有关于 MicroPython 和 Webduino 的开发。
 
 ## 基础方面
 
