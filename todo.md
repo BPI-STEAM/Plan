@@ -4,15 +4,23 @@
 ![](https://img.shields.io/badge/open%20source-bananpi-brightgreen.svg)
 ![](https://img.shields.io/badge/developer-wall%20plan-blueviolet.svg)
 
+## TODO
+
+- Juwan 整理整个组织号的项目结构，并打理开发文档 2019年5月31日
+
 ## 组织文档
 
 ### 用户文档
 
-迁移历史文档至新地点存放，原格式保持不变，仅变更文档存放区域。
+~~迁移历史文档至新地点存放，原格式保持不变，仅变更文档存放区域。~~
+
+用户文档框架已经成型，顺便整理了 BPI-BIT-MicroPython 的发布中心，软件发布有迹可循。
 
 ### 开发文档
 
-之后书写开发者文档在此处 [Dev](https://github.com/BPI-STEAM/Dev)。
+~~之后书写开发者文档在此处 [Dev](https://github.com/BPI-STEAM/Dev)。~~
+
+准备书写开发文档、有关于 MicroPython 和 Webduino 的开发。
 
 ## 基础方面
 
