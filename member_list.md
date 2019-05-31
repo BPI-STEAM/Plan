@@ -22,10 +22,6 @@
 
 [starkZH](https://github.com/starkZH)
 
-[lishuai66](https://github.com/lishuai66)
-
-[coffee-fighter](https://github.com/coffee-fighter)
-
 [Walkline80](https://github.com/Walkline80)
 
 [SuperXUnet](https://github.com/SuperXUnet)
@@ -68,8 +64,6 @@
 
 - [ofchenyuan](https://github.com/ofchenyuan)
 
-任务安排
-
 对 bpi:bit 的存在的硬件问题提供解答和设计底板或底座。
 
 - [yelvlab](https://github.com/yelvlab)
@@ -84,16 +78,3 @@
 
 - [youxinweizhi](https://github.com/youxinweizhi)
 
-对 bpi:bit 的社区建设提供更多相关内容。（贡献者自行编辑，提出或认领）
-
-1. Webduino 
-
-2. MicroPython
-
-3. Arduino
-
-4. Linux
-
-对 bpi:bit 的开发计划假设。
-
-举例来说，如果你想做一样东西，比如做一个 bpi:bit 机械人，然后想要几个电机，可以提出需求，我们来讨论是否可行 XD。
