@@ -28,7 +28,7 @@
 
 陈发布了自己的 Arduino 的学习资料与指导，基本内容发布完后，将移步到 MicroPython 或 Webduino 的内容。
 
-刘投入在 MicroPython 的社区小车驱动帖，将对应产出教程贴、BPI-BIT 驱动代码，此外辅助完善 MicroPython  文档库代码。
+刘投入在 MicroPython 的社区小车驱动帖，已经对应产出教程贴（建议归档重新审核）、BPI-BIT 驱动代码，此外辅助完善 MicroPython  文档库代码。
 
 ### 额外的事情
 
